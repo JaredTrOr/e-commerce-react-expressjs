@@ -5,7 +5,7 @@ function Login(){
     }
 
     return (
-        <div className="form-container">
+        <div className="main-container">
             <form onSubmit={handleOnSubmit} className="form">
                 <div className="form-row-container">
                     <label htmlFor="username">Username or E-mail</label>
