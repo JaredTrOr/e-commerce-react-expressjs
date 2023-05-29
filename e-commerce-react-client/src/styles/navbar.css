@@ -11,7 +11,7 @@ a {
 }
 
 .navbar {
-    background-color: var(--main-bg-color);
+    background-color: var(--dark-main-bg-color);
     padding: 1rem 0;
 }
 
