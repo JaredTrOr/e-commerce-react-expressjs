@@ -1,0 +1,29 @@
+@import url('../App.css');
+
+a {
+    color: var(--light-bg-color);
+    text-decoration: none;
+}
+
+.logo-link {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: var(--dark-main-bg-color);
+    padding: 1rem 0;
+}
+
+.navbar-container {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+}
+
+.navbar-items {
+    display: flex;
+    gap: 1rem;
+}
